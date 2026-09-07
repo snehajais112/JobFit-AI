@@ -1,4 +1,4 @@
-# JobFit AI 🚀
+# JobFit AI 
 
 ## AI-Powered Resume Screening & Job Matching System
 
