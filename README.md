@@ -106,21 +106,6 @@ genai.configure(api_key="YOUR_API_KEY")
 streamlit run app.py
 ```
 
----
-
-##  Application Screenshots
-
-### ATS Score & Skill Matching
-(Add Screenshot Here)
-
-### Candidate Evaluation
-(Add Screenshot Here)
-
-### Hiring Recommendation
-(Add Screenshot Here)
-
----
-
 ##  Business Use Case
 
 Recruiters often spend significant time manually reviewing resumes. JobFit AI automates the initial screening process by:
@@ -150,7 +135,7 @@ This reduces manual effort and improves recruitment efficiency.
 
 Sneha Jaiswal
 
-B.Tech (Information Techny)
+B.Tech (Computer Science and Engineering)
 
 Passionate about Generative AI, AI Agents, Automation, and Intelligent Applications.
 
